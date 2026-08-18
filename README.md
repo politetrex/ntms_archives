@@ -9,5 +9,7 @@
 ## 系统公告
 
 - 2026/08/18 20:09:54: 
-  - /1 被覆盖成 30hz_test
-  - 我们的回应：`30hz? 存档不认频率，只认内容。—— politetrex`
+    - /1 被覆盖成 30hz_test
+        - 我们的回应：`30hz? 存档不认频率，只认内容。—— politetrex`
+    - /0 被覆盖成小说
+        - 小说内容在 archived/beifen_alias/lx.txt
