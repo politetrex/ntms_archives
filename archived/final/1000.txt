@@ -1,17 +1,17 @@
-新域名推荐网                         版本号:_𝟶.𝟶𝟷
+新域名推荐网                         版本号:_𝟶.𝟶𝟸
 －－－－－－－－－－－－－－－－－－－
 
 ━─━─━─━─━─━─━─━─━─━
 ℹ️ 网站遭到了攻击,可能出现无法正常访问的情况,请等待恢复.
 ━─━─━─━─━─━─━─━─━─━
 
-新域名推荐网是一个用于推荐网址的网站，作为一个普通人或是一个作企业宣传的人很有帮助，你可以将感兴趣的网址推荐到这里。
+新域名推荐网是一个用于推荐网址的网站,作为一个普通人或是一个作企业宣传的人很有帮助,你可以将感兴趣的网址推荐到这里.
 
-~~以下为markdown运行形式,请勿删除~~
+~~以下为𝗺𝗮𝗿𝗸𝗱𝗼𝘄𝗻运行形式,请勿删除~~
 
-![图片加载失败](https://t.tutu.to/img/01M025543FWKDDJYBCRRPYWKPN)
 ![](https://count.kjchmc.cn/get/@1000?theme=minecraft)
-![图片加载失败](https://s41.ax1x.com/2026/08/18/pmviBPs.jpg)
+自更新以来页面已被访问达![加载失败](https://w.saobby.com/w/fzm75wf9)次
+![图片加载失败](https://t.tutu.to/img/01M09KYWPFSTA2YPHHDBFEYRRM)
 ### ↡点击下方按钮可切换颜色
 [ 🔲 ](javascript:
 s=document.createElement(`style`);
@@ -20,22 +20,39 @@ s.textContent=`
 document.head.appendChild(s);
 )
 
-↺[在𝗁𝗍𝗍𝗉𝗌://𝗇𝗈𝗍𝖾.𝗆𝗌/𝟣𝟢𝟢𝟢.𝗆𝖽观赏更佳]
+↺[在https://note.ms/1000.md观赏更佳]
 
 本网站各区域的作用:
+
 ⒈实用区
 用于分享你喜欢的网站网址
+
 ‖⒉游戏区
 用于分享你喜欢的单个游戏网页网站
+
 ‖⒊NOTE组织区
 对note部分组织进行收录(注:该区域的域名在普遍状态下直接写裸域名‌,若单个域名独立的情况下请写URL)
+
 ‖⒋其它区
-除上述所述以外的其它网站类型进行分享                 
+除上述所述以外的其它网站类型进行分享      
+┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+                          𝗪𝗔𝗥𝗡𝗜𝗡𝗚
+㊟为顶防恶意网站影响用户体验,一些可能或实际具有危害性的网页将标注"⚠",
+代表访问这一网站将承担所有责任,"新域名推荐网"的官方将拒不负责。
+访问时请注意这一类网站,除非底下有友情提示，不要意外点击进入或好奇访问,
+这只会给你带来不必要的损失和麻烦.我们会处理这样的问题.
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈           
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 🛠️实用区:  
 
-[42.zip+](https://42.pltrex.cc.cd)
+[体验反馈区](https://note.ms/1000A)
+
+[⚠42.zip](https://unforgettable.dk)
+
+[⚠42.zip+](https://42.ubtrex.cc.cd)
+
+*提醒：以上两个都是zip bomb，请谨慎打开。42.zip+ 是升级版，因为太危险，站内提供确认提示框。*
 
 [宣团](https://www.luogu.com.cn/team/107924)
 
@@ -55,7 +72,7 @@ document.head.appendChild(s);
 
 [后室mc层群维基](https://backrooms-mc-new.wikidot.com)
 
-[后室韩文维基](https://backrooms-wiki-ko.wikidot.com)
+[⚠后室韩文维基](https://backrooms-wiki-ko.wikidot.com)
 
 [getnote](https://getnote.top)
 
@@ -68,7 +85,6 @@ document.head.appendChild(s);
 [蜜蜂图床](https://beeimg.cn)
 
 [国际象棋](https://lichess.org)
-
 
 🎮游戏区:  
 
@@ -100,13 +116,12 @@ NOTE反攻击联合同盟
 三角洲玩家交流区
 [三角洲玩家交流区](https://note.ms/sanjiaozhouxingdong)
 
-
 📦其它区:  
 
 [旋转老鼠](https://spinningrat.online)
 
 [iuiuiu](https://iuiuiu.com)
 
-[fancytext.cool](https://fancytext.cool)
+[⚠fancytext.cool](https://fancytext.cool)
 
-[洛谷主站](https://www.uogu.com.cn)
+[洛谷主站](https://www.luogu.com.cn)
